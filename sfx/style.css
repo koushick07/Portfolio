@@ -166,8 +166,19 @@ main{
     transform: scale(1.1);
 }
 
+.site-main .brand-area .first-row .col-lg-4 > .single-brand{
+    padding: 30px 20px;
+    border-radius: 20px;
+    margin: 49px 11px;
+    position:sticky;
+    transition: background-color 2s ease-in-out, color 2s ease , transform 1s ease-in-out;
+    box-shadow: 2px 2px 40px 1px rgb(120, 67, 14);
+}
+
 .site-main .brand-area .first-row .col-lg-4 > .single-brand:hover > img{
-    filter: brightness(0.15);
+    background-color:rgb(7, 115, 247);
+    color:white;
+    transform:scale(1.1)
 }
 
 .site-main .brand-area .experience-area{
