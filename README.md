@@ -1,2 +1,2 @@
 # portfolio
-https://koushick07.github.io/portfoliom/sfx/index.html
+https://koushick07.github.io/portfolio/sfx/index.html
